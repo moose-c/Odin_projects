@@ -1,0 +1,1 @@
+# Directions for Odin Projects
